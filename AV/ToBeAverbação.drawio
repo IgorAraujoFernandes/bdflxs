@@ -299,6 +299,24 @@
         <mxCell id="znxGaS8kSn9Q3ObWvyCd-340" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#97D077;fontSize=17;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="386.75" y="1162" width="52" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="znxGaS8kSn9Q3ObWvyCd-341" value="Documentações necessárias:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. DSM&lt;/div&gt;&lt;div&gt;2. HBL&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="7" y="320" width="110" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="znxGaS8kSn9Q3ObWvyCd-343" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="znxGaS8kSn9Q3ObWvyCd-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="430" as="sourcePoint" />
+            <mxPoint x="170" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="znxGaS8kSn9Q3ObWvyCd-344" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Proc. Saída &amp;gt; Averbação&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="39.12" y="687.5" width="100.88" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="znxGaS8kSn9Q3ObWvyCd-348" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="znxGaS8kSn9Q3ObWvyCd-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="720" as="sourcePoint" />
+            <mxPoint x="170" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
