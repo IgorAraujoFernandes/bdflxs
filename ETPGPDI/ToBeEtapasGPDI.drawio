@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="2">
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="ADUANEIRO-GPDI" id="EruZMpuR81w0RCuKD3_x">
     <mxGraphModel dx="1114" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -172,56 +172,6 @@
         </mxCell>
         <mxCell id="G2oj6XavuOZ9E54nddeZ-15" value="2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="468" width="17.57" height="17" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="zFHyoLHJCrqeXqaAV2A3" name="ADUANEIRO-MAPA">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="lVcfdXyYLiakXF-j10Do-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVcfdXyYLiakXF-j10Do-1" target="lVcfdXyYLiakXF-j10Do-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="74" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVcfdXyYLiakXF-j10Do-2" target="lVcfdXyYLiakXF-j10Do-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-2" value="MAPA " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="174" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVcfdXyYLiakXF-j10Do-4" target="lVcfdXyYLiakXF-j10Do-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-4" value="Cliente direciona a pendência para o MAPA no Connect" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="254" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVcfdXyYLiakXF-j10Do-6" target="lVcfdXyYLiakXF-j10Do-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-6" value="Aguardar análise" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="334" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVcfdXyYLiakXF-j10Do-10" target="lVcfdXyYLiakXF-j10Do-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-10" value="Equipe de apoio MAPA notifica ao cliente quanto a necesidade de inspeção de madeira" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="414" width="125" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVcfdXyYLiakXF-j10Do-12" target="lVcfdXyYLiakXF-j10Do-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-12" value="Aguardar inspeção de madeira para liberação automática da pendência" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361.5" y="514" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lVcfdXyYLiakXF-j10Do-14" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="604" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="GT46mLlUrMEdEBqn-Els-1" value="ADUANEIRO-MAPA" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="271.5" y="74" width="299" height="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
